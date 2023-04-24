@@ -1,5 +1,3 @@
-# Text_Minor-at-CheckThat-2022
-Official code for our submission for Task 3 at CheckThat! 2022
 Data  preprocessing:
 
 Dev: python preprocessing.py --data 'data/content_Data'  --data_name content_Data  --input_file 'dev.csv' --data_type Dev
