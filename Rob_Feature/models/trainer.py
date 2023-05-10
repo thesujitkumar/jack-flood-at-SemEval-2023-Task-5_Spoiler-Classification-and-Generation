@@ -32,7 +32,7 @@ import gc
 
 train_data_len = { 'contest': 3200}
 test_data_len = { 'contest': 800 }
-dev_data_len = {'contest': 800}
+dev_data_len = {'contest': 1000}
 
 
 
