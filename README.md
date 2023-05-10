@@ -1,1 +1,1 @@
-There are various approaches to our solution to the task. As mentioned in the paper, we have uploaded all the approaches here. Each approach has a seperate readme file inside the folder which containes the commands required to run the approach.
+
